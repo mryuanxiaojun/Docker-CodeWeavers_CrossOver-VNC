@@ -63,6 +63,6 @@ Another solution, [Wine VNC](https://github.com/john-shine/Docker-WineHQ-VNC): *
 
 ## Built-in applications
 
-+ [BaiduNetdisk downloader](https://github.com/john-shine/Docker-CodeWeavers_CrossOver-VNC/tree/master/BaiduNetdisk)
-+ [Internet Download Manager](https://github.com/john-shine/Docker-CodeWeavers_CrossOver-VNC/tree/master/Internet%20Download%20Manager)
-+ [LuYouXia](https://github.com/john-shine/Docker-CodeWeavers_CrossOver-VNC/tree/master/Lyx)
++ [BaiduNetdisk downloader](https://github.com/mryuanxiaojun/Docker-CodeWeavers_CrossOver-VNC/tree/master/BaiduNetdisk)
++ [Internet Download Manager](https://github.com/mryuanxiaojun/Docker-CodeWeavers_CrossOver-VNC/tree/master/Internet%20Download%20Manager)
++ [LuYouXia](https://github.com/mryuanxiaojun/Docker-CodeWeavers_CrossOver-VNC/tree/master/Lyx)
